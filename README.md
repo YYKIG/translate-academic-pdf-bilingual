@@ -35,7 +35,7 @@ paper-qa.json
 在任意 Codex 对话中提出：
 
 ```text
-请从 https://github.com/YYKIG/translate-academic-pdf-bilingual 安装这个 Skill，并设为全局 Skill。
+请从 https://github.com/YYKIG/translate-academic-pdf-bilingual 安装这个 Skill，并设为全局/项目 Skill。
 ```
 
 ### 手动安装
