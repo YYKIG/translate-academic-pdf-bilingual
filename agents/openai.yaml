@@ -1,0 +1,5 @@
+interface:
+  display_name: "学术文献中英对照 PDF"
+  short_description: "生成左中右英、原公式精准截图嵌入且经过学术排版的可复制对照 PDF"
+  default_prompt: "Use $translate-academic-pdf-bilingual to translate this paper, precisely crop every source formula into the Chinese typeset panel, and keep the unchanged English page on the right."
+
